@@ -4,6 +4,7 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/promise/countr.svg)](https://github.com/promise/countr/pulls)
 [![License](https://img.shields.io/github/license/promise/countr.svg)](https://github.com/promise/countr/blob/master/LICENSE)
 [![Discord Support](https://img.shields.io/discord/449576301997588490.svg)](https://promise.solutions/support)
+[![Run on Repl.it](https://repl.it/badge/github/Beta-boom/countr-es)](https://repl.it/github/Beta-boom/countr-es)
 
 # Countr
 
